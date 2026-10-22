@@ -1,3 +1,20 @@
+# WCC Project — Q8 Adaptive QAM Transceiver (Group 08)
+
+ICT 3128 Wireless Communication and Computing · FISAC-1
+
+| Part | Folder | Done by |
+| --- | --- | --- |
+| A — Transmitter design and implementation | [`src/`](src) | Person 1 · [original repository](https://github.com/saanvi-afk/wcc_project) |
+| B — Channel / propagation model | [`partB/`](partB) | Person 2 |
+
+Part B passes the Part A waveform through AWGN and a slow Rayleigh flat-fading
+channel, checks the channel against theory, and compares ideal with delayed and
+noisy SNR feedback. Details and results: [`partB/README.md`](partB/README.md).
+
+---
+
+*Part A description by Person 1, unchanged:*
+
 # WCC Project — Part A
 
 ## Overview
